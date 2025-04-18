@@ -1,0 +1,119 @@
+[
+  {
+    "title": "Тест продукт од Мишо",
+    "description": null,
+    "price": "9.999",
+    "priceWithDiscount": "599",
+    "discountPercent": "-20%",
+    "imageUrl": "/2018/02/08/EL-11A-Pic_3ada561d-6a2c-4c75-b1ee-39d2e2428fc6.jpg?width=192",
+    "productUrl": "/categories/TOSTERI/FUEGO-EL-11A-"
+  },
+  {
+    "title": "Тостер FUEGO EL-11A, 750W",
+    "description": null,
+    "price": "1.199",
+    "priceWithDiscount": "599",
+    "discountPercent": "-50%",
+    "imageUrl": "/2018/02/08/EL-11A-Pic_3ada561d-6a2c-4c75-b1ee-39d2e2428fc6.jpg?width=192",
+    "productUrl": "/categories/TOSTERI/FUEGO-EL-11A-"
+  },
+  {
+    "title": "Фен четка FUEGO BY-812, 600W",
+    "description": null,
+    "price": "1.899",
+    "priceWithDiscount": "999",
+    "discountPercent": "-47%",
+    "imageUrl": "/2022/07/14/6356.png?width=192",
+    "productUrl": "/categories/FIGARO/FUEGO-BY-812"
+  },
+  {
+    "title": "CANYON CNS-HSETW02-UK/US Velvet Wireless Black",
+    "description": null,
+    "price": "1.499",
+    "priceWithDiscount": "799",
+    "discountPercent": "-47%",
+    "imageUrl": "/2024/10/16/CNS-HSETW02-US_8db51b9b-7edb-4875-a65f-9a8c6fb112f5.JPG?width=192",
+    "productUrl": "/categories/TASTATURI/CANYON-CNS-HSETW02-UK-US-Velvet-Wireless-Black"
+  },
+  {
+    "title": "Power Bank CANYON PB-109 10.000mAh CNE-CPB1009B Black",
+    "description": null,
+    "price": "2.099",
+    "priceWithDiscount": "1.149",
+    "discountPercent": "-45%",
+    "imageUrl": "/2024/03/21/221227150013288257_bfa5387d-7587-40e2-b8fe-d39171013539.webp?width=192",
+    "productUrl": "/categories/POWER_BANK/CANYON-PB-109-10-000mAh-CNE-CPB1009B-Black"
+  },
+  {
+    "title": "Пегла на пареа FUEGO KY-268",
+    "description": null,
+    "price": "1.599",
+    "priceWithDiscount": "899",
+    "discountPercent": "-44%",
+    "imageUrl": "/2022/07/28/1694.png?width=192",
+    "productUrl": "/categories/PEGLI1/FUEGO-KY-268"
+  },
+  {
+    "title": "Mouse CANYON Wireless 2.4GHz CNE-CMSW11BL",
+    "description": null,
+    "price": "499",
+    "priceWithDiscount": "279",
+    "discountPercent": "-44%",
+    "imageUrl": "/2020/12/09/1_70889ac4-768c-4ac6-9b62-7812c3736767.jpg?width=192",
+    "productUrl": "/categories/GLUVCINA/CANYON-Wireless-2-4GHz-CNE-CMSW11BL"
+  },
+  {
+    "title": "BT слушалки FUEGO TWS T13Pro Black",
+    "description": null,
+    "price": "999",
+    "priceWithDiscount": "599",
+    "discountPercent": "-40%",
+    "imageUrl": "/2024/03/04/T13ProB_23a7cde7-59af-4323-91f1-11d6125b2710.JPG?width=192",
+    "productUrl": "/categories/SLUSALKI_T/FUEGO-TWS-T13Pro-Black"
+  },
+  {
+    "title": "BT слушалки FUEGO TWS T13Pro White",
+    "description": null,
+    "price": "999",
+    "priceWithDiscount": "599",
+    "discountPercent": "-40%",
+    "imageUrl": "/2024/03/04/T13ProW_cd8a54c4-c9e3-4972-bec2-81842de5f991.JPG?width=192",
+    "productUrl": "/categories/SLUSALKI_T/FUEGO-TWS-T13Pro-White"
+  },
+  {
+    "title": "AIR FRYER TEFAL EY501815, 1550 W",
+    "description": null,
+    "price": "9.889",
+    "priceWithDiscount": "5.999",
+    "discountPercent": "-39%",
+    "imageUrl": "/2022/07/21/TEFAL_2.jpg_OID_1XINI00101.jpg?width=192",
+    "productUrl": "/categories/AIR_FRYER/TEFAL-EY501815"
+  },
+  {
+    "title": "Правосмукалка ROWENTA RO3786EA, 750W, 1,5l",
+    "description": null,
+    "price": "8.119",
+    "priceWithDiscount": "4.999",
+    "discountPercent": "-38%",
+    "imageUrl": "/2018/01/30/1_92dd0384-7127-4c42-b87c-ad993b73313a.JPG?width=192",
+    "productUrl": "/categories/Pravosmukalki1/ROWENTA-RO-3786-EA"
+  },
+  {
+    "title": "Пегла на пареа PHILIPS DST 3011/20",
+    "description": null,
+    "price": "3.199",
+    "priceWithDiscount": "1.999",
+    "discountPercent": "-38%",
+    "imageUrl": "/2023/02/24/ттт.JPG?width=192",
+    "productUrl": "/categories/PEGLI1/PHILIPS-DST-3011-20"
+  },
+  {
+    "title": "Case Fan Rampage CoolWind F1 1200RPM w/3x120mm ARGB Fans + Control Hub w/Remote Control",
+    "description": null,
+    "price": "2.199",
+    "priceWithDiscount": "1.399",
+    "discountPercent": "-36%",
+    "imageUrl": "/2024/10/24/3898200_d6185b86-e2e9-4490-a0ce-5460c7898bd3.jpg?width=192",
+    "productUrl": "/categories/Ventilatori_za_kukista/Case-Fan-Rampage-CoolWind-F1-1200RPM-w-3x120mm-ARGB-Fans---Control-Hub-w-Remote-Control"
+  }
+]
